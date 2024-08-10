@@ -1,3 +1,4 @@
-# itschauhankapil.github.io
+
 # Kapil Chauhan 
-# 123
+# I serve as an Assistant Professor at Motilal Nehru National Institute of Technology, specializing in the dynamic realm of Power Electronics-dominated Power Systems. With a background in academia and industry, including roles at prestigious institutions like Nanyang Technological University Singapore and Indian Institute of Technology Bombay, I have focused on areas such as Wide-Area Monitoring & Control of Power Grids, Distributed Energy Resources Management, Power System Optimization, and the Application of ML/AI in Power Systems. I am deeply passionate about driving innovation in power systems through teaching and research. Open to collaboration, consultancy projects, and mentoring Ph.D. aspirants in the power system area, I invite you to connect and explore opportunities to shape the future together. 
+# Tools: MATLAB, PSCAD, RTDS, DSA, Python
